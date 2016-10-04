@@ -1122,83 +1122,83 @@ $lang['view_invoice_pdf_link_pay']                                            = 
 $lang['payment_mode_add_edit_description']         = 'Bančni računi / Opis';
 $lang['payment_mode_add_edit_description_tooltip'] = 'Tukaj lahko nastavite informacije bančnih računov. Račun bo prikazan v HTML obliki';
 $lang['payment_modes_dt_description']              = 'Bančni računi / Opis';
-$lang['payment_modes_add_edit_announcement']       = 'Note: Payment modes listed below are offline modes. Online payment modes can be configured in Settings-> Payment Gataways';
-$lang['payment_mode_add_edit_active']              = 'Active';
-$lang['payment_modes_dt_active']                   = 'Active';
+$lang['payment_modes_add_edit_announcement']       = 'Opomba: Spodaj zapisani načini plačil so v nepovezanem načinu.Spletni plačilni načini bodo nastavljena v nastavitve->Plačilni vhodi';
+$lang['payment_mode_add_edit_active']              = 'Aktivna';
+$lang['payment_modes_dt_active']                   = 'Aktivna';
 
 # Contracts
-$lang['contract_not_found'] = 'Contract not found. Maybe is deleted, check activity log';
+$lang['contract_not_found'] = 'Pogodbe niso najdene. Možnost je da so izbrisane, preveri aktivnostni zapisek';
 
 # Settings
-$lang['setting_bar_heading']                 = 'Setup';
-$lang['settings_group_online_payment_modes'] = 'Payment Gataways';
-$lang['settings_paymentmethod_mode_label']   = 'Label';
-$lang['settings_paymentmethod_active']       = 'Active';
-$lang['settings_paymentmethod_currencies']   = 'Coma Separated Currencies';
-$lang['settings_paymentmethod_testing_mode'] = 'Enable Testing Mode';
+$lang['setting_bar_heading']                 = 'Namestitve';
+$lang['settings_group_online_payment_modes'] = 'Plačilni vhodi';
+$lang['settings_paymentmethod_mode_label']   = 'Oznaka';
+$lang['settings_paymentmethod_active']       = 'Aktivna';
+$lang['settings_paymentmethod_currencies']   = 'Coma različnih valut';
+$lang['settings_paymentmethod_testing_mode'] = 'Omogoči način testiranja';
 
-$lang['settings_paymentmethod_paypal_username']  = 'Paypal API Username';
-$lang['settings_paymentmethod_paypal_password']  = 'Paypal API Password';
-$lang['settings_paymentmethod_paypal_signature'] = 'API Signature';
+$lang['settings_paymentmethod_paypal_username']  = 'Paypal API Uporabniško ime';
+$lang['settings_paymentmethod_paypal_password']  = 'Paypal API Geslo';
+$lang['settings_paymentmethod_paypal_signature'] = 'API Podpis';
 
-$lang['settings_paymentmethod_stripe_api_secret_key']      = 'Stripe API Secret Key';
-$lang['settings_paymentmethod_stripe_api_publishable_key'] = 'Stripe Publishable Key';
-$lang['settings_limit_top_search_bar_results']             = 'Limit Top Search Bar Results to';
+$lang['settings_paymentmethod_stripe_api_secret_key']      = 'Trak API skritega ključa';
+$lang['settings_paymentmethod_stripe_api_publishable_key'] = 'Trak objave ključa';
+$lang['settings_limit_top_search_bar_results']             = 'Omeja zgornji iskalni rezultat na';
 
 # Quick Actions
-$lang['qa_create_invoice']  = 'Create Invoice';
-$lang['qa_create_task']     = 'Create Task';
-$lang['qa_create_client']   = 'Create Customer';
-$lang['qa_create_contract'] = 'Create Contract';
-$lang['qa_create_kba']      = 'Create Knowledge Base Article';
-$lang['qa_create_survey']   = 'Create Survey';
-$lang['qa_create_ticket']   = 'Open Ticket';
-$lang['qa_create_staff']    = 'Create Staff Member';
+$lang['qa_create_invoice']  = 'Ustvari račun';
+$lang['qa_create_task']     = 'Ustvari nalogo';
+$lang['qa_create_client']   = 'Ustvari stranko';
+$lang['qa_create_contract'] = 'Ustvari pogodbo';
+$lang['qa_create_kba']      = 'Ustvari podatkovno bazo znanj';
+$lang['qa_create_survey']   = 'Ustvari anketo';
+$lang['qa_create_ticket']   = 'Odpri račun';
+$lang['qa_create_staff']    = 'Ustvari osebje';
 
 ## Clients
-$lang['client_phonenumber'] = 'Phone';
+$lang['client_phonenumber'] = 'Telefon';
 
 # Main Clients
-$lang['clients_register']                          = 'Register';
-$lang['clients_profile_updated']                   = 'Your profile has been updated';
-$lang['clients_successfully_registered']           = 'Thank your for registering';
-$lang['clients_account_created_but_not_logged_in'] = 'Your account has been created but you are not logged in our system automatically. Please try to login';
+$lang['clients_register']                          = 'Registracija';
+$lang['clients_profile_updated']                   = 'Tvoj profil je posodobljen';
+$lang['clients_successfully_registered']           = 'Hvala za registracijo';
+$lang['clients_account_created_but_not_logged_in'] = 'Tvoj račun je bil ustvarjen a niste avtomatsko vpisani v našem sistemu. Poskusite se vpisati.';
 # Tickets
-$lang['clients_tickets_heading']                   = 'Support Tickets';
+$lang['clients_tickets_heading']                   = 'Podpora za kartice';
 
 # Payments
 // Uses on stripe page
-$lang['payment_for_invoice'] = 'Payment for Invoice';
-$lang['payment_total']       = 'Total: %s';
+$lang['payment_for_invoice'] = 'Plačila na račun';
+$lang['payment_total']       = 'Skupno: %s';
 
 # Invoice
-$lang['invoice_html_online_payment']             = 'Online Payment';
-$lang['invoice_html_online_payment_button_text'] = 'Pay Now';
-$lang['invoice_html_payment_modes_not_selected'] = 'Please Select Payment Mode';
-$lang['invoice_html_amount_blank']               = 'Total amount cant be blank or zero';
-$lang['invoice_html_offline_payment']            = 'Offline Payment';
-$lang['invoice_html_amount']                     = 'Amount';
+$lang['invoice_html_online_payment']             = 'Spletna plačila';
+$lang['invoice_html_online_payment_button_text'] = 'Plačaj';
+$lang['invoice_html_payment_modes_not_selected'] = 'Prosimo izberite plačilno metodo';
+$lang['invoice_html_amount_blank']               = 'Skupen izračun ne more biti prazen oziroma enak 0';
+$lang['invoice_html_offline_payment']            = 'Neaktivno plačilo';
+$lang['invoice_html_amount']                     = 'Znesek';
 
 
 # Version 1.0.2
 # Admin
 #
 # DataTables
-$lang['dt_button_column_visibility']  = 'Visibility';
-$lang['dt_button_reload']             = 'Reload';
+$lang['dt_button_column_visibility']  = 'Vidno';
+$lang['dt_button_reload']             = 'Osveži';
 $lang['dt_button_excel']              = 'Excel';
 $lang['dt_button_csv']                = 'CSV';
 $lang['dt_button_pdf']                = 'PDF';
 $lang['dt_button_print']              = 'Print';
-$lang['is_not_active_export']         = 'No';
-$lang['is_active_export']             = 'Yes';
+$lang['is_not_active_export']         = 'Ne';
+$lang['is_active_export']             = 'Da';
 
 # Invoice
-$lang['invoice_add_edit_advanced_options']               = 'Advanced Options';
-$lang['invoice_add_edit_allowed_payment_modes']          = 'Allowed payment modes for this invoice';
-$lang['invoice_add_edit_recuring_invoices_from_invoice'] = 'Recurring invoices from this invoice';
-$lang['invoice_add_edit_no_payment_modes_found']         = 'No payment modes found.';
-$lang['invoice_html_total_pay']                          = 'Total: %s';
+$lang['invoice_add_edit_advanced_options']               = 'Napredne možnosti';
+$lang['invoice_add_edit_allowed_payment_modes']          = 'Dovoljeni načini plačil za ta račun';
+$lang['invoice_add_edit_recuring_invoices_from_invoice'] = 'Ponavljajoči računi za ta račun';
+$lang['invoice_add_edit_no_payment_modes_found']         = 'Plačilne možnosti niso najdene.';
+$lang['invoice_html_total_pay']                          = 'Skupaj: %s';
 
 # Email templates
 $lang['email_templates_table_heading_name'] = 'Template Name';
