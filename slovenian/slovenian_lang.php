@@ -1047,7 +1047,7 @@ $lang['clients_login_login_string']        = 'Prijava';
 
 # Register
 $lang['clients_register_string']  = 'Registracija';
-$lang['clients_register_heading'] = 'Registriri se';
+$lang['clients_register_heading'] = 'Registriraj se';
 
 # Navigation
 $lang['clients_nav_login']     = 'Prijava';
