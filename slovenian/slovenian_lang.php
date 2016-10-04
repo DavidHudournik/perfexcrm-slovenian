@@ -998,206 +998,207 @@ $lang['clients_edit_profile_old_password']            = 'Old Password';
 $lang['clients_edit_profile_new_password']            = 'New Password';
 $lang['clients_edit_profile_new_password_repeat']     = 'Repeat Password';
 $lang['clients_edit_profile_change_password_btn']     = 'Change Password';
-$lang['clients_profile_last_changed_password']        = 'Password last changed %s';
+$lang['clients_profile_last_changed_password']        = 'Geslo je nazadnje bilo spremenjeno %s';
 
 # Knowledge base
-$lang['clients_knowledge_base']                    = 'Knowledge Base';
-$lang['clients_knowledge_base_articles_not_found'] = 'No knowledge base articles found';
-$lang['clients_knowledge_base_find_useful']        = 'Did you find this article useful?';
-$lang['clients_knowledge_base_find_useful_yes']    = 'Yes';
-$lang['clients_knowledge_base_find_useful_no']     = 'No';
-$lang['clients_article_only_1_vote_today']         = 'You can vote once in 24 hours';
-$lang['clients_article_voted_thanks_for_feedback'] = 'Thanks for your feedback';
+$lang['clients_knowledge_base']                    = 'Baza znanj';
+$lang['clients_knowledge_base_articles_not_found'] = 'Ni najdene baze znanj';
+$lang['clients_knowledge_base_find_useful']        = 'Je bil članek uporaben?';
+$lang['clients_knowledge_base_find_useful_yes']    = 'Da';
+$lang['clients_knowledge_base_find_useful_no']     = 'Ne';
+$lang['clients_article_only_1_vote_today']         = 'Glasujete lahko enkrat v 24-ih urah';
+$lang['clients_article_voted_thanks_for_feedback'] = 'Hvala za povratno informacijo';
 
 # Tickets
-$lang['clients_ticket_open_subject']                = 'Open Ticket';
-$lang['clients_ticket_open_departments']            = 'Department';
-$lang['clients_tickets_heading']                    = 'Support Tickets';
-$lang['clients_ticket_open_service']                = 'Service';
-$lang['clients_ticket_open_priority']               = 'Priority';
-$lang['clients_latest_tickets']                     = 'Latest Tickets';
-$lang['clients_ticket_open_body']                   = 'Ticket Body';
-$lang['clients_ticket_attachments']                 = 'Attachments';
-$lang['clients_ticket_posted']                      = 'Posted: %s';
-$lang['clients_single_ticket_string']               = 'Ticket';
-$lang['clients_single_ticket_replied']              = 'Replied: %s';
-$lang['clients_single_ticket_informations_heading'] = 'Ticket Informations';
+$lang['clients_ticket_open_subject']                = 'Odpri naročilo';
+$lang['clients_ticket_open_departments']            = 'Oddelek';
+$lang['clients_tickets_heading']                    = 'Podpora naročila';
+$lang['clients_ticket_open_service']                = 'Storitev';
+$lang['clients_ticket_open_priority']               = 'Prioriteta';
+$lang['clients_latest_tickets']                     = 'Zadnja naročila';
+$lang['clients_ticket_open_body']                   = 'Zgradba naročila';
+$lang['clients_ticket_attachments']                 = 'Priponke';
+$lang['clients_ticket_posted']                      = 'Objavljeno: %s';
+$lang['clients_single_ticket_string']               = 'Naročilo';
+$lang['clients_single_ticket_replied']              = 'Odgovorjeno: %s';
+$lang['clients_single_ticket_informations_heading'] = 'Informacija naročila';
 
-$lang['clients_tickets_dt_number']     = 'Ticket #';
-$lang['clients_tickets_dt_subject']    = 'Subject';
-$lang['clients_tickets_dt_department'] = 'Department';
-$lang['clients_tickets_dt_service']    = 'Service';
+$lang['clients_tickets_dt_number']     = 'Naročilo #';
+$lang['clients_tickets_dt_subject']    = 'Tema';
+$lang['clients_tickets_dt_department'] = 'Oddelek';
+$lang['clients_tickets_dt_service']    = 'Storitev';
 $lang['clients_tickets_dt_status']     = 'Status';
-$lang['clients_tickets_dt_last_reply'] = 'Last Reply';
+$lang['clients_tickets_dt_last_reply'] = 'Zadnji odgovor';
 
-$lang['clients_ticket_single_department']        = 'Department: %s';
-$lang['clients_ticket_single_submited']          = 'Submited: %s';
+$lang['clients_ticket_single_department']        = 'Oddelek: %s';
+$lang['clients_ticket_single_submited']          = 'Oddano: %s';
 $lang['clients_ticket_single_status']            = 'Status:';
-$lang['clients_ticket_single_priority']          = 'Priority: %s';
-$lang['clients_ticket_single_add_reply_btn']     = 'Add Reply';
-$lang['clients_ticket_single_add_reply_heading'] = 'Add reply to this ticket';
+$lang['clients_ticket_single_priority']          = 'Prioriteta: %s';
+$lang['clients_ticket_single_add_reply_btn']     = 'Dodaj odgovor';
+$lang['clients_ticket_single_add_reply_heading'] = 'Dodaj odgovor na naročilo';
 
 # Login
-$lang['clients_login_heading_no_register'] = 'Please login';
-$lang['clients_login_heading_register']    = 'Please login or register';
-$lang['clients_login_email']               = 'Email Address';
-$lang['clients_login_password']            = 'Password';
-$lang['clients_login_remember']            = 'Remember me';
-$lang['clients_login_login_string']        = 'Login';
+$lang['clients_login_heading_no_register'] = 'Prijavi se';
+$lang['clients_login_heading_register']    = 'Prijavi se ali se registriri';
+$lang['clients_login_email']               = 'Naslov e-pošte';
+$lang['clients_login_password']            = 'Geslo';
+$lang['clients_login_remember']            = 'Spovni se me';
+$lang['clients_login_login_string']        = 'Prijava';
 
 # Register
-$lang['clients_register_string']  = 'Register';
-$lang['clients_register_heading'] = 'Register';
+$lang['clients_register_string']  = 'Registracija';
+$lang['clients_register_heading'] = 'Registriri se';
 
 # Navigation
-$lang['clients_nav_login']     = 'Login';
-$lang['clients_nav_register']  = 'Register';
-$lang['clients_nav_invoices']  = 'Invoices';
-$lang['clients_nav_contracts'] = 'Contracts';
-$lang['clients_nav_kb']        = 'Knowledge Base';
-$lang['clients_nav_profile']   = 'Profile';
-$lang['clients_nav_logout']    = 'Logout';
+$lang['clients_nav_login']     = 'Prijava';
+$lang['clients_nav_register']  = 'Registriri se';
+$lang['clients_nav_invoices']  = 'Računi';
+$lang['clients_nav_contracts'] = 'Pogodbe';
+$lang['clients_nav_kb']        = 'Baza znanj';
+$lang['clients_nav_profile']   = 'Profil';
+$lang['clients_nav_logout']    = 'Odjava';
 
 # Datatables
-$lang['clients_dt_paginate_first']    = 'First';
-$lang['clients_dt_paginate_last']     = 'Last';
-$lang['clients_dt_paginate_next']     = 'Next';
-$lang['clients_dt_paginate_previous'] = 'Previous';
-$lang['clients_dt_empty_table']       = 'No {0} found';
-$lang['clients_dt_search']            = 'Search:';
-$lang['clients_dt_zero_records']      = 'No matching records found';
-$lang['clients_dt_loading_records']   = 'Loading...';
-$lang['clients_dt_length_menu']       = 'Show _MENU_ ';
-$lang['clients_dt_info_filtered']     = '(filtered from _MAX_ total {0})';
-$lang['clients_dt_info_empty']        = 'Showing 0 to 0 of 0 {0}';
-$lang['clients_dt_info']              = 'Showing _START_ to _END_ of _TOTAL_ {0}';
-$lang['clients_dt_empty_table']       = 'No {0} found';
-$lang['clients_dt_sort_ascending']    = 'activate to sort column ascending';
-$lang['clients_dt_sort_descending']   = 'activate to sort column descending';
-
+$lang['clients_dt_paginate_first']    = 'Prvo';
+$lang['clients_dt_paginate_last']     = 'Zadnje';
+$lang['clients_dt_paginate_next']     = 'Naprej';
+$lang['clients_dt_paginate_previous'] = 'Prejšnje';
+$lang['clients_dt_empty_table']       = 'Ni {0} najdeno';
+$lang['clients_dt_search']            = 'Išči:';
+$lang['clients_dt_zero_records']      = 'Ni ujemajočih zapisov najdenih';
+$lang['clients_dt_loading_records']   = 'Nalaganje...';
+$lang['clients_dt_length_menu']       = 'Prikaži _MENI_ ';
+$lang['clients_dt_info_filtered']     = '(filtriran iz _MAX_ skupaj {0})';
+$lang['clients_dt_info_empty']        = 'Prikaži 0 do 0 od 0 {0}';
+$lang['clients_dt_info']              = 'Prikaži _Začetek_ do _Konec_ od _SKUPNO_ {0}';
+$lang['clients_dt_empty_table']       = 'Ni {0} najdeno';
+$lang['clients_dt_sort_ascending']    = 'Aktiviran glede razvrščanje od najnižjega do najvišjega';
 
 # Version 1.0.1
 # Admin
 #
 # Payments
-$lang['payment_receipt']                               = 'Payment Receipt';
-$lang['payment_for_string']                            = 'Payment For';
-$lang['payment_date']                                  = 'Payment Date:';
-$lang['payment_view_mode']                             = 'Payment Mode:';
-$lang['payment_total_amount']                          = 'Total Amount';
-$lang['payment_table_invoice_number']                  = 'Invoice Number';
-$lang['payment_table_invoice_date']                    = 'Invoice Date';
-$lang['payment_table_invoice_amount_total']            = 'Invoice Amount';
-$lang['payment_table_payment_amount_total']            = 'Payment Amount';
-$lang['payments_table_transaction_id']                 = 'Transaction ID: %s';
-$lang['payment_getaway_token_not_found']               = 'Token Not Found';
-$lang['online_payment_recorded_success']               = 'Payment recorded successfully';
-$lang['online_payment_recorded_success_fail_database'] = 'Payment is successful but failed to insert payment to database, contact administrator';
+$lang['payment_receipt']                               = 'Račun plačila';
+$lang['payment_for_string']                            = 'Plačilo za';
+$lang['payment_date']                                  = 'Datum plačila:';
+$lang['payment_view_mode']                             = 'Metoda plačila:';
+$lang['payment_total_amount']                          = 'Skupaj';
+$lang['payment_table_invoice_number']                  = 'Številka računa';
+$lang['payment_table_invoice_date']                    = 'Datum računa';
+$lang['payment_table_invoice_amount_total']            = 'Faktura računov';
+$lang['payment_table_payment_amount_total']            = 'Število naročil';
+$lang['payments_table_transaction_id']                 = 'ID transakcije: %s';
+$lang['payment_getaway_token_not_found']               = 'Žeton ni najden';
+$lang['online_payment_recorded_success']               = 'Naročilo uspešno posneto';
+$lang['online_payment_recorded_success_fail_database'] = 'Plačilo je uspešno a ni vnešeno v podatkovno bazo plačil. Kontaktirajte administratorja.';
 
 # Leads
-$lang['lead_convert_to_client']                   = 'Convert to customer';
-$lang['lead_convert_to_email']                    = 'Email';
-$lang['lead_convert_to_client_firstname']         = 'First Name';
-$lang['lead_convert_to_client_lastname']          = 'Last Name';
-$lang['lead_email_already_exists']                = 'Lead email already exists in customers data';
-$lang['lead_to_client_base_converted_success']    = 'Lead converted to customer successfully';
-$lang['lead_already_converted']                   = 'Converted to customer';
-$lang['lead_have_client_profile']                 = 'This lead have customer profile.';
-$lang['lead_converted_edit_client_profile']       = 'Edit Profile';
+$lang['lead_convert_to_client']                   = 'Spremenite v stranko';
+$lang['lead_convert_to_email']                    = 'E-mail';
+$lang['lead_convert_to_client_firstname']         = 'Ime';
+$lang['lead_convert_to_client_lastname']          = 'Priimek';
+$lang['lead_email_already_exists']                = 'Email obstaja v bazi';
+$lang['lead_to_client_base_converted_success']    = 'Pot do strank uspešno pretvorjena';
+$lang['lead_already_converted']                   = 'Pretvordba do strank';
+$lang['lead_have_client_profile']                 = 'Ta pot vodi do profila stranke.';
+$lang['lead_converted_edit_client_profile']       = 'Uredi profil';
 
 # Invoices
-$lang['view_invoice_as_customer_tooltip']                                     = 'View invoice as customer';
-$lang['invoice_add_edit_recurring']                                           = 'Recurring Invoice?';
-$lang['invoice_add_edit_recurring_no']                                        = 'No';
-$lang['invoice_add_edit_recurring_month']                                     = 'Every %s month';
-$lang['invoice_add_edit_recurring_months']                                    = 'Every %s months';
-$lang['invoices_list_all']                                                    = 'All';
-$lang['invoices_list_not_have_payment']                                       = 'Invoices with no payment record';
-$lang['invoices_list_recuring']                                               = 'Recurring Invoices';
-$lang['invoices_list_made_payment_by']                                        = 'Made Payment by %s';
-$lang['invoices_create_invoice_from_recurring_only_on_paid_invoices']         = 'Create new invoice from main recurring invoice only if is with status Paid';
-$lang['invoices_create_invoice_from_recurring_only_on_paid_invoices_tooltip'] = 'If this field is set to YES and the recurring invoices is not with status PAID, the new invoice will NOT be created.';
-$lang['send_renewed_invoice_from_recurring_to_email']                         = 'Auto send the renewed invoice to the customer';
-$lang['view_invoice_pdf_link_pay']                                            = 'Pay Invoice';
+$lang['view_invoice_as_customer_tooltip']                                     = 'Pogled računa kot stranka';
+$lang['invoice_add_edit_recurring']                                           = 'Ponavljajoč račun?';
+$lang['invoice_add_edit_recurring_no']                                        = 'Ne';
+$lang['invoice_add_edit_recurring_month']                                     = 'Vsak %s mesec';
+$lang['invoice_add_edit_recurring_months']                                    = 'Vsake %s mesecev';
+$lang['invoices_list_all']                                                    = 'Vse';
+$lang['invoices_list_not_have_payment']                                       = 'Račun brez plačilnega naloga';
+$lang['invoices_list_recuring']                                               = 'Ponavljajoči računi';
+$lang['invoices_list_made_payment_by']                                        = 'Račun izdal %s';
+$lang['invoices_create_invoice_from_recurring_only_on_paid_invoices']         = 'Ustvari račun iz glavnega računa samo če je status Plačan';
+$lang['invoices_create_invoice_from_recurring_only_on_paid_invoices_tooltip'] = 'Če je to polje nastavljeno kot Da in če računi nimajo statusa Plačano ne bo ustvarjen nov račun.';
+$lang['send_renewed_invoice_from_recurring_to_email']                         = 'Avtomatsko pošlji za ponovni račun stranki';
+$lang['view_invoice_pdf_link_pay']                                            = 'Plačaj račun';
 
 # Payment modes
-$lang['payment_mode_add_edit_description']         = 'Bank Accounts / Description';
-$lang['payment_mode_add_edit_description_tooltip'] = 'You can set here bank accounts informations. Will be shown on HTML Invoice';
-$lang['payment_modes_dt_description']              = 'Bank Accounts / Description';
-$lang['payment_modes_add_edit_announcement']       = 'Note: Payment modes listed below are offline modes. Online payment modes can be configured in Settings-> Payment Gataways';
-$lang['payment_mode_add_edit_active']              = 'Active';
-$lang['payment_modes_dt_active']                   = 'Active';
+$lang['payment_mode_add_edit_description']         = 'Bančni računi / Opis';
+$lang['payment_mode_add_edit_description_tooltip'] = 'Tukaj lahko nastavite informacije bančnih računov. Račun bo prikazan v HTML obliki';
+$lang['payment_modes_dt_description']              = 'Bančni računi / Opis';
+$lang['payment_modes_add_edit_announcement']       = 'Opomba: Spodaj zapisani načini plačil so v nepovezanem načinu.Spletni plačilni načini bodo nastavljena v nastavitve->Plačilni vhodi';
+$lang['payment_mode_add_edit_active']              = 'Aktivna';
+$lang['payment_modes_dt_active']                   = 'Aktivna';
 
 # Contracts
-$lang['contract_not_found'] = 'Contract not found. Maybe is deleted, check activity log';
+$lang['contract_not_found'] = 'Pogodbe niso najdene. Možnost je da so izbrisane, preveri aktivnostni zapisek';
 
 # Settings
-$lang['setting_bar_heading']                 = 'Setup';
-$lang['settings_group_online_payment_modes'] = 'Payment Gataways';
-$lang['settings_paymentmethod_mode_label']   = 'Label';
-$lang['settings_paymentmethod_active']       = 'Active';
-$lang['settings_paymentmethod_currencies']   = 'Coma Separated Currencies';
-$lang['settings_paymentmethod_testing_mode'] = 'Enable Testing Mode';
+$lang['setting_bar_heading']                 = 'Namestitve';
+$lang['settings_group_online_payment_modes'] = 'Plačilni vhodi';
+$lang['settings_paymentmethod_mode_label']   = 'Oznaka';
+$lang['settings_paymentmethod_active']       = 'Aktivna';
+$lang['settings_paymentmethod_currencies']   = 'Coma različnih valut';
+$lang['settings_paymentmethod_testing_mode'] = 'Omogoči način testiranja';
 
-$lang['settings_paymentmethod_paypal_username']  = 'Paypal API Username';
-$lang['settings_paymentmethod_paypal_password']  = 'Paypal API Password';
-$lang['settings_paymentmethod_paypal_signature'] = 'API Signature';
+$lang['settings_paymentmethod_paypal_username']  = 'Paypal API Uporabniško ime';
+$lang['settings_paymentmethod_paypal_password']  = 'Paypal API Geslo';
+$lang['settings_paymentmethod_paypal_signature'] = 'API Podpis';
 
-$lang['settings_paymentmethod_stripe_api_secret_key']      = 'Stripe API Secret Key';
-$lang['settings_paymentmethod_stripe_api_publishable_key'] = 'Stripe Publishable Key';
-$lang['settings_limit_top_search_bar_results']             = 'Limit Top Search Bar Results to';
+$lang['settings_paymentmethod_stripe_api_secret_key']      = 'Trak API skritega ključa';
+$lang['settings_paymentmethod_stripe_api_publishable_key'] = 'Trak objave ključa';
+$lang['settings_limit_top_search_bar_results']             = 'Omeja zgornji iskalni rezultat na';
 
 # Quick Actions
-$lang['qa_create_invoice']  = 'Create Invoice';
-$lang['qa_create_task']     = 'Create Task';
-$lang['qa_create_client']   = 'Create Customer';
-$lang['qa_create_contract'] = 'Create Contract';
-$lang['qa_create_kba']      = 'Create Knowledge Base Article';
-$lang['qa_create_survey']   = 'Create Survey';
-$lang['qa_create_ticket']   = 'Open Ticket';
-$lang['qa_create_staff']    = 'Create Staff Member';
+$lang['qa_create_invoice']  = 'Ustvari račun';
+$lang['qa_create_task']     = 'Ustvari nalogo';
+$lang['qa_create_client']   = 'Ustvari stranko';
+$lang['qa_create_contract'] = 'Ustvari pogodbo';
+$lang['qa_create_kba']      = 'Ustvari podatkovno bazo znanj';
+$lang['qa_create_survey']   = 'Ustvari anketo';
+$lang['qa_create_ticket']   = 'Odpri račun';
+$lang['qa_create_staff']    = 'Ustvari osebje';
 
 ## Clients
-$lang['client_phonenumber'] = 'Phone';
+$lang['client_phonenumber'] = 'Telefon';
 
 # Main Clients
-$lang['clients_register']                          = 'Register';
-$lang['clients_profile_updated']                   = 'Your profile has been updated';
-$lang['clients_successfully_registered']           = 'Thank your for registering';
-$lang['clients_account_created_but_not_logged_in'] = 'Your account has been created but you are not logged in our system automatically. Please try to login';
+$lang['clients_register']                          = 'Registracija';
+$lang['clients_profile_updated']                   = 'Tvoj profil je posodobljen';
+$lang['clients_successfully_registered']           = 'Hvala za registracijo';
+$lang['clients_account_created_but_not_logged_in'] = 'Tvoj račun je bil ustvarjen a niste avtomatsko vpisani v našem sistemu. Poskusite se vpisati.';
 # Tickets
-$lang['clients_tickets_heading']                   = 'Support Tickets';
+$lang['clients_tickets_heading']                   = 'Podpora za kartice';
 
 # Payments
 // Uses on stripe page
-$lang['payment_for_invoice'] = 'Payment for Invoice';
-$lang['payment_total']       = 'Total: %s';
+$lang['payment_for_invoice'] = 'Plačila na račun';
+$lang['payment_total']       = 'Skupno: %s';
 
 # Invoice
-$lang['invoice_html_online_payment']             = 'Online Payment';
-$lang['invoice_html_online_payment_button_text'] = 'Pay Now';
-$lang['invoice_html_payment_modes_not_selected'] = 'Please Select Payment Mode';
-$lang['invoice_html_amount_blank']               = 'Total amount cant be blank or zero';
-$lang['invoice_html_offline_payment']            = 'Offline Payment';
-$lang['invoice_html_amount']                     = 'Amount';
+$lang['invoice_html_online_payment']             = 'Spletna plačila';
+$lang['invoice_html_online_payment_button_text'] = 'Plačaj';
+$lang['invoice_html_payment_modes_not_selected'] = 'Prosimo izberite plačilno metodo';
+$lang['invoice_html_amount_blank']               = 'Skupen izračun ne more biti prazen oziroma enak 0';
+$lang['invoice_html_offline_payment']            = 'Neaktivno plačilo';
+$lang['invoice_html_amount']                     = 'Znesek';
 
 
 # Version 1.0.2
 # Admin
 #
 # DataTables
-$lang['dt_button_column_visibility']  = 'Visibility';
-$lang['dt_button_reload']             = 'Reload';
+$lang['dt_button_column_visibility']  = 'Vidno';
+$lang['dt_button_reload']             = 'Osveži';
 $lang['dt_button_excel']              = 'Excel';
 $lang['dt_button_csv']                = 'CSV';
 $lang['dt_button_pdf']                = 'PDF';
 $lang['dt_button_print']              = 'Print';
-$lang['is_not_active_export']         = 'No';
-$lang['is_active_export']             = 'Yes';
+$lang['is_not_active_export']         = 'Ne';
+$lang['is_active_export']             = 'Da';
 
 # Invoice
-$lang['invoice_add_edit_advanced_options']               = 'Advanced Options';
-$lang['invoice_add_edit_allowed_payment_modes']          = 'Allowed payment modes for this invoice';
+$lang['invoice_add_edit_advanced_options']               = 'Napredne možnosti';
+$lang['invoice_add_edit_allowed_payment_modes']          = 'Dovoljeni načini plačil za ta račun';
+$lang['invoice_add_edit_recuring_invoices_from_invoice'] = 'Ponavljajoči računi za ta račun';
+$lang['invoice_add_edit_no_payment_modes_found']         = 'Plačilne možnosti niso najdene.';
+$lang['invoice_html_total_pay']                          = 'Skupaj: %s';
 $lang['invoice_add_edit_recuring_invoices_from_invoice'] = 'Recurring invoices from this invoice';
 $lang['invoice_add_edit_no_payment_modes_found']         = 'No payment modes found.';
 $lang['invoice_html_total_pay']                          = 'Total: %s';
